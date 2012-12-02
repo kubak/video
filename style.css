@@ -1,0 +1,17 @@
+video {
+    width:600px; 
+    height:350px;
+}
+#productImage {
+    float : left;
+}
+.productContainer {
+    width : 600px;
+    height : 70px;
+}
+.productName {
+    float : left;
+}
+.productPrice {
+    float : right;
+}
